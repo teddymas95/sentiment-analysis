@@ -1,4 +1,4 @@
-!pip install streamlit transformers pandas
+#!pip install streamlit transformers pandas
 import streamlit as st
 import pandas as pd
 from transformers import pipeline
